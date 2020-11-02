@@ -7,7 +7,7 @@ package rollmate;
 
 /**
  *
- * @author 20169432
+ * @author Rick Wosyka
  */
 public class RollMate {
 

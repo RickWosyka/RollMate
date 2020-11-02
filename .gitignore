@@ -4,3 +4,5 @@ RollMate/manifest.mf
 *.xml
 *.properties
 *.form
+/RollMate/build/
+RollMate/nbproject/licenseheader.txt
